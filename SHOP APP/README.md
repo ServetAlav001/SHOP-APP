@@ -32,5 +32,6 @@ Android için internet izni `AndroidManifest.xml` içinde tanımlıdır.
 Ürünler ve görseller şu adresten çekilir: `https://dummyjson.com`  
 Ürünler ve görseller yedek adrestten çekebilirsiniz: `https://fakestoreapi.com` 
 Yanıtta her ürün için `id`, `name`, `tagline`, `description`, `price`, `currency`, `image` (URL) ve `specs` bulunur. Karşı tarafın erişebilmesi için veri bu public API üzerinden sağlanır.
+
 hazırlayan [Servet ALAV]
 # SHOP-APP
